@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berkay I'm a freshman in Işık University</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latryee&label=Profile%20views&color=1379b9&style=plastic" alt="latryee" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=latryee&show_icons=true&theme=tokyonight&title_color=955623&text_color=3d41b3&locale=en" alt="latryee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latryee&" alt="latryee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latryee&theme=dark" alt="latryee" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=latryee&label=Profile%20views&color=1379b9&style=plastic" alt="latryee" /> </p>
