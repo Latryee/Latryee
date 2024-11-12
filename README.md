@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay I'm a freshman in Işık University</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latryee&label=Profile%20views&color=0e75b6&style=flat" alt="latryee" /> </p>
+
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
