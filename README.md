@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkay I'm a Computer Engineering Student</h1>
+<h1 align="center">Hi 👋, I'm Berkay I'm a Computer Engineering Student </h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/latryee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@Latryeee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@latrye9846) 
