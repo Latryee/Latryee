@@ -22,11 +22,12 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Latrye&theme=radical&show_icons=true&count_private=true&refresh=1)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Latrye&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=1)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Latrye&theme=radical&hide_border=false&refresh=1)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Latrye&theme=radical&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=0D1117&refresh=1)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&theme=radical&layout=compact&refresh=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&layout=compact&theme=radical&refresh=1)
+
 
 ---
 
