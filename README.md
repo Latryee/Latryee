@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berkay </h1>
-
+<h1 align="center">Hi 👋, I'm Latrye </h1>
+  
 
 💻 Computer Engineering Student  
 🚀 Java | Python | C# Developer  
@@ -22,11 +22,18 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Latrye&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Latrye&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&theme=radical&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Latrye&theme=radical&show_icons=true&count_private=true&refresh=1)  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Latrye&theme=radical&hide_border=false&refresh=1)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&theme=radical&layout=compact&refresh=1)  
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/Latrye/Latrye/blob/output/github-contribution-grid-snake.svg)
